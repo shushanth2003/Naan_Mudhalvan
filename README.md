@@ -40,6 +40,7 @@ Overall, the analysis enables stakeholders, policymakers, and researchers to gai
 ![Capture8](https://github.com/shushanth2003/Naan_Mudhalvan/assets/103485945/0835da0a-5668-4312-8924-1b2b4fc4ed02)
 
 ## Model Output
-![Capture4](https://github.com/shushanth2003/Naan_Mudhalvan/assets/103485945/47e4143f-0d8e-4579-bb87-44743d3bbb04)
+![Capture5](https://github.com/shushanth2003/Naan_Mudhalvan/assets/103485945/783ee458-d06c-4596-abd9-10394135ede9)
+
 
 
